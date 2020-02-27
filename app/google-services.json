@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602114238987",
+    "firebase_url": "https://talkcoinz2-new.firebaseio.com",
+    "project_id": "talkcoinz2-new",
+    "storage_bucket": "talkcoinz2-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602114238987:android:610ca36b17bbc16f42f50e",
+        "android_client_info": {
+          "package_name": "com.cryptoloversbots.talkcoinz2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602114238987-fgoqeb16e6tgmhpsv045n9eva3bku47l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cryptoloversbots.talkcoinz2",
+            "certificate_hash": "71098ec5e1742a6704f35088e1abf59428c527d4"
+          }
+        },
+        {
+          "client_id": "602114238987-s6m89d6h98t6t2082dov9vjffeq7eptp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxNDbsJCLR9SNEvkNHnmm1X3iBJ4VvTTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602114238987-s6m89d6h98t6t2082dov9vjffeq7eptp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
