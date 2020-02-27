@@ -18,6 +18,7 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 import com.cryptoloversbots.talkcoinz2.Fragments.ChatsFragment;
 import com.cryptoloversbots.talkcoinz2.Fragments.ProfileFragment;
+import com.cryptoloversbots.talkcoinz2.Fragments.SponsorsFragment;
 import com.cryptoloversbots.talkcoinz2.Fragments.UsersFragment;
 import com.cryptoloversbots.talkcoinz2.Model.User;
 import com.google.android.material.tabs.TabLayout;
@@ -83,6 +84,7 @@ public class MainActivity extends AppCompatActivity {
         viewPagerAdapter.addFragment(new ChatsFragment(), "Chats");
         viewPagerAdapter.addFragment(new UsersFragment(), "Users");
         viewPagerAdapter.addFragment(new ProfileFragment(), "Profile");
+        viewPagerAdapter.addFragment(new SponsorsFragment(), "Sponsors");
 
         viewpager.setAdapter(viewPagerAdapter);
 
@@ -104,6 +106,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, StartActivity.class));
                 finish();
                 return true;
+                
         }
 
         return false;

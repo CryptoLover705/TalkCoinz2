@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">TalkCoinz2</string>
     <string name="app_version">V1.0.1-beta</string>
+    <string name="sponsor_1">Want to be a Sponsor?</string>
+    <string name="sponsor_1_description">Want to be a Sponsor? contact us at: support@cryptoloverbots.com</string>
+
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
