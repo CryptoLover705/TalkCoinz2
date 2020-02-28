@@ -166,7 +166,6 @@ attr civ_border_color
 attr civ_border_overlay
 attr civ_border_width
 attr civ_circle_background_color
-attr civ_fill_color
 attr closeIcon
 attr closeIconEnabled
 attr closeIconEndPadding
@@ -1229,6 +1228,7 @@ id blocking
 id bottom
 id btn_login
 id btn_register
+id btn_reset
 id btn_send
 id buttonPanel
 id cancel_action
@@ -1275,6 +1275,7 @@ id fill_vertical
 id filled
 id fixed
 id forever
+id forgot_password
 id ghost_view
 id glide_custom_view_target_tag
 id gone
@@ -1288,12 +1289,15 @@ id icon_group
 id icon_only
 id ifRoom
 id image
+id img_off
+id img_on
 id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
 id labeled
 id largeLabel
+id last_msg
 id left
 id light
 id line1
@@ -1355,9 +1359,11 @@ id search_go_btn
 id search_mag_icon
 id search_plate
 id search_src_text
+id search_users
 id search_voice_btn
 id select_dialog_listview
 id selected
+id send_email
 id shortcut
 id showCustom
 id showHome
@@ -1490,6 +1496,7 @@ layout activity_login
 layout activity_main
 layout activity_message
 layout activity_register
+layout activity_reset_password
 layout activity_start
 layout bar_layout
 layout chat_item_left
@@ -1599,7 +1606,6 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
-string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string mtrl_chip_close_icon_content_description
 string password_toggle_content_description
@@ -2143,7 +2149,7 @@ styleable ButtonBarLayout allowStacking
 styleable CardView android_minWidth android_minHeight cardBackgroundColor cardCornerRadius cardElevation cardMaxElevation cardPreventCornerOverlap cardUseCompatPadding contentPadding contentPaddingBottom contentPaddingLeft contentPaddingRight contentPaddingTop
 styleable Chip android_textAppearance android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipStartPadding chipStrokeColor chipStrokeWidth closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible hideMotionSpec iconEndPadding iconStartPadding rippleColor showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical singleLine singleSelection
-styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color civ_fill_color
+styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color
 styleable CollapsingToolbarLayout collapsedTitleGravity collapsedTitleTextAppearance contentScrim expandedTitleGravity expandedTitleMargin expandedTitleMarginBottom expandedTitleMarginEnd expandedTitleMarginStart expandedTitleMarginTop expandedTitleTextAppearance scrimAnimationDuration scrimVisibleHeightTrigger statusBarScrim title titleEnabled toolbarId
 styleable CollapsingToolbarLayout_Layout layout_collapseMode layout_collapseParallaxMultiplier
 styleable ColorStateListItem android_color android_alpha alpha

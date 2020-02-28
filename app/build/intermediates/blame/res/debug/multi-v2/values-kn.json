@@ -4,41 +4,7 @@
             "outputFile": "C:\\Users\\crypt\\Desktop\\GitHub\\TalkCoinz2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\crypt\\.gradle\\caches\\transforms-2\\files-2.1\\03b88df6b77d3d7604e0483cd316069e\\jetified-play-services-basement-16.1.0\\res\\values-kn\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4025",
-                        "endColumns": "204",
-                        "endOffsets": "4225"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\crypt\\.gradle\\caches\\transforms-2\\files-2.1\\3dffc7944f8c7e987ce4e446d4f2264d\\jetified-firebase-messaging-17.3.4\\res\\values-kn\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "98",
-                        "endOffsets": "303"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "5579",
-                        "endColumns": "102",
-                        "endOffsets": "5677"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\crypt\\.gradle\\caches\\transforms-2\\files-2.1\\863a52e046e483d5efe3bb8a4ce2d9d1\\jetified-play-services-base-16.0.1\\res\\values-kn\\values.xml",
+                    "source": "C:\\Users\\crypt\\.gradle\\caches\\transforms-2\\files-2.1\\a7dfbb78c47d6fb61939251aeae30df0\\play-services-base-17.1.0\\res\\values-kn\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,6 +18,23 @@
                         "startOffsets": "2859,2972,3174,3309,3426,3628,3759,3897,4230,4439,4554,4745,4882,5086,5273,5372,5465",
                         "endColumns": "112,201,134,116,201,130,137,127,208,114,190,136,203,186,98,92,113",
                         "endOffsets": "2967,3169,3304,3421,3623,3754,3892,4020,4434,4549,4740,4877,5081,5268,5367,5460,5574"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\crypt\\.gradle\\caches\\transforms-2\\files-2.1\\22ce2ca6f29c871e7f52d03f127462e3\\jetified-firebase-messaging-20.1.0\\res\\values-kn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "98",
+                        "endOffsets": "305"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5579",
+                        "endColumns": "102",
+                        "endOffsets": "5677"
                     }
                 },
                 {
@@ -69,6 +52,23 @@
                         "startOffsets": "5764",
                         "endColumns": "100",
                         "endOffsets": "5860"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\crypt\\.gradle\\caches\\transforms-2\\files-2.1\\2ec0e2c5f6f5d1171aa9748d8b6eceee\\jetified-play-services-basement-17.0.0\\res\\values-kn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4025",
+                        "endColumns": "204",
+                        "endOffsets": "4225"
                     }
                 },
                 {

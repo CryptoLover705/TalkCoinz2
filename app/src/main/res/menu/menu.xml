@@ -7,5 +7,10 @@
         android:title="Logout"
         app:showAsAction="never"/>
 
+<!--    <item-->
+<!--        android:id="@+id/about_us"-->
+<!--        android:title="About us"-->
+<!--        app:showAsAction="never"/>-->
+
 
 </menu>
